@@ -1,0 +1,9 @@
+{
+  "Spamming": {
+    "MinDelay": 1500,
+    "MaxDelay": 2000
+  },
+  "Logging": {
+    "LogWebhook": ""
+  }
+}
